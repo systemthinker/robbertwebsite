@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/robbertwebsite/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/robbertwebsite/static/js/main.5cb50976.chunk.js",
-    "main.js.map": "/robbertwebsite/static/js/main.5cb50976.chunk.js.map",
-    "runtime-main.js": "/robbertwebsite/static/js/runtime-main.8b9c88fe.js",
-    "runtime-main.js.map": "/robbertwebsite/static/js/runtime-main.8b9c88fe.js.map",
-    "static/js/2.b722367c.chunk.js": "/robbertwebsite/static/js/2.b722367c.chunk.js",
-    "static/js/2.b722367c.chunk.js.map": "/robbertwebsite/static/js/2.b722367c.chunk.js.map",
-    "static/js/3.9969a5a2.chunk.js": "/robbertwebsite/static/js/3.9969a5a2.chunk.js",
-    "static/js/3.9969a5a2.chunk.js.map": "/robbertwebsite/static/js/3.9969a5a2.chunk.js.map",
+    "main.css": "/robbertwebsite/static/css/main.2800b362.chunk.css",
+    "main.js": "/robbertwebsite/static/js/main.dc61e725.chunk.js",
+    "main.js.map": "/robbertwebsite/static/js/main.dc61e725.chunk.js.map",
+    "runtime-main.js": "/robbertwebsite/static/js/runtime-main.88a67006.js",
+    "runtime-main.js.map": "/robbertwebsite/static/js/runtime-main.88a67006.js.map",
+    "static/css/2.659c1fd9.chunk.css": "/robbertwebsite/static/css/2.659c1fd9.chunk.css",
+    "static/js/2.f9f6ffa6.chunk.js": "/robbertwebsite/static/js/2.f9f6ffa6.chunk.js",
+    "static/js/2.f9f6ffa6.chunk.js.map": "/robbertwebsite/static/js/2.f9f6ffa6.chunk.js.map",
+    "static/js/3.2443fb96.chunk.js": "/robbertwebsite/static/js/3.2443fb96.chunk.js",
+    "static/js/3.2443fb96.chunk.js.map": "/robbertwebsite/static/js/3.2443fb96.chunk.js.map",
     "index.html": "/robbertwebsite/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/robbertwebsite/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.b722367c.chunk.js.LICENSE.txt": "/robbertwebsite/static/js/2.b722367c.chunk.js.LICENSE.txt"
+    "static/css/2.659c1fd9.chunk.css.map": "/robbertwebsite/static/css/2.659c1fd9.chunk.css.map",
+    "static/css/main.2800b362.chunk.css.map": "/robbertwebsite/static/css/main.2800b362.chunk.css.map",
+    "static/js/2.f9f6ffa6.chunk.js.LICENSE.txt": "/robbertwebsite/static/js/2.f9f6ffa6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b9c88fe.js",
-    "static/js/2.b722367c.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.5cb50976.chunk.js"
+    "static/js/runtime-main.88a67006.js",
+    "static/css/2.659c1fd9.chunk.css",
+    "static/js/2.f9f6ffa6.chunk.js",
+    "static/css/main.2800b362.chunk.css",
+    "static/js/main.dc61e725.chunk.js"
   ]
 }
