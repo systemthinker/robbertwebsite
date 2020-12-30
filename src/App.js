@@ -1,11 +1,9 @@
 import "./App.css";
+import Home from "../src/components/Home";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>test</h1>
-    </div>
-  );
+  return <Home></Home>;
 }
 
 export default App;
